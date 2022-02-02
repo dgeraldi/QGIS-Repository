@@ -1,5 +1,7 @@
 # QGIS-Repository
 
+![Github](https://img.shields.io/github/license/dgeraldi/QGIS-Repository?style=plastic) ![Github](https://img.shields.io/badge/QGIS%20version-v3.22-green?style=plastic)
+
 ## Styles
 ### Roads
 
